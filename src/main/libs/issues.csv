@@ -1,0 +1,51 @@
+#,Project,Tracker,Parent task,Status,Priority,Subject,Author,Assignee,Updated,Category,Target version,Start date,Due date,Estimated time,% Done,Created,Closed,Related issues,Resolution,Affected version
+32503,Redmine,Defect,"",New,Normal,Project jump box options are not extracted correctly after searching,Mizuki ISHIKAWA,"",2019-11-22 06:36,Projects,"","","","",0,2019-11-22 06:10,"","","",""
+32500,Redmine,Defect,"",New,Normal,Spent time report csv shows translation missing text if custom fields are involved,Guillermo ML,"",2019-11-21 17:50,Custom fields,"","","","",0,2019-11-21 17:50,"","","",4.0.5
+32493,Redmine,Feature,"",New,Normal,Add capability to make an attachment\s obsolete and to collapse all obsolete attachments and focus only the necessary ones (like bugzilla),pasquale [:dedalus],"",2019-11-21 02:15,Attachments,"","","","",0,2019-11-20 17:24,"","","",""
+32489,Redmine,Feature,"",New,Normal,Change progress of a ticket via commit message,Gerhard  Schmidt,"",2019-11-20 08:23,SCM,"","","","",0,2019-11-20 08:23,"","","",""
+32484,Redmine,Feature,"",New,Normal,"When a group is selected in the user custom field field,Enable the same handling as the user on the issue list screen.",Yuuki NARA,"",2019-11-18 18:35,"","","","","",0,2019-11-18 18:35,"","","",""
+32479,Redmine,Defect,"",New,Normal,"Issue filter: operator not support ""is + AND""",Taine Woo,"",2019-11-20 16:30,Issues filter,"","","","",0,2019-11-18 07:47,"","","",4.0.4
+32477,Redmine,Defect,"",New,Normal,Export PDF of WikiPage in Markdown Format with right toc,Brice Beaumesnil,"",2019-11-15 10:37,Wiki,"","","","",0,2019-11-15 10:37,"","","",3.4.8
+32476,Redmine,Defect,"",New,Normal,Sorting on multiple value fields is not working,Taine Woo,"",2019-11-21 08:35,Issues list,"","","","",0,2019-11-15 09:15,"","","",4.0.3
+32475,Redmine,Defect,"",New,Normal,changing status applies field permissions before save,Jon Schell,"",2019-11-15 02:03,Issues permissions,"","","","",0,2019-11-15 02:03,"","","",3.4.3
+32471,Redmine,Patch,"",New,Normal,Custom field edit page is different for single selection and multiple selection,Shingo Hosotani,"",2019-11-15 07:52,Issues,Candidate for next major release,"","","",0,2019-11-14 10:28,"","","",""
+32461,Redmine,Patch,"",New,Normal,Allow Redmine:MyPage to be overriden in plugins,Jérôme BATAILLE,"",2019-11-15 00:48,My page,"","","","",0,2019-11-13 00:16,"","","",""
+32450,Redmine,Defect,"",Confirmed,Normal,"Nonexistent ""/javascripts/tribute.min.js.map"" is accessed (RoutingError) when using the Chrome DevTools",Mizuki ISHIKAWA,"",2019-11-21 02:21,UI,4.2.0,"","","",0,2019-11-12 03:32,"",related to #31989,"",""
+32449,Redmine,Defect,"",New,Normal,diff display issue for js files in git,terrell smith,"",2019-11-11 15:54,SCM,"","","","",0,2019-11-11 15:54,"","","",4.0.5
+32442,Redmine,Defect,"",New,Normal,"Upgrade vom 2.x to 4.0.5 fails when invoking ""rake db:migrate RAILS_ENV=production""",Sebastian Ebert,"",2019-11-10 16:12,"","","","","",0,2019-11-10 16:12,"","","",4.0.5
+32438,Redmine,Defect,"",New,Normal,Update the public site www.redmine.org ti latest release,pasquale [:dedalus],Jean-Philippe Lang,2019-11-09 11:59,Website (redmine.org),"","","","",0,2019-11-09 11:59,"","","",""
+32435,Redmine,Patch,"",New,Normal,The ?Apply? button translation to Russian,Stanislav Ogryzkov,"",2019-11-08 08:01,Translations,"","","","",0,2019-11-08 08:01,"","","",""
+32433,Redmine,Feature,"",New,Normal,feature: option for CustomField to update the values by some of roles and different default value for different project,Taine Woo,"",2019-11-07 08:22,Custom fields,"","","","",0,2019-11-07 08:22,"","","",""
+32430,Redmine,Defect,"",Needs feedback,Normal,Can't delete project in Redmine 4.0.3,Cheng-Hui PENG,Cheng-Hui PENG,2019-11-07 07:33,"","","","","",0,2019-11-07 05:28,"","","",4.0.3
+32426,Redmine,Feature,"",New,Normal,Search from journal for specific value of specific field during specific period,Taine Woo,"",2019-11-06 15:56,Issues filter,"","","","",0,2019-11-06 15:56,"","","",""
+32424,Redmine,Patch,"",New,Normal,CommonMark Markdown Text Formatting,Jens Krämer,"",2019-11-06 10:02,Text formatting,"","","","",0,2019-11-06 09:27,"","related to #29172, related to #20841, related to #20497, related to #19880","",""
+32422,Redmine,Defect,"",New,Normal,Wiki preview: Unable to display indent in preview,Yuichi HARADA,"",2019-11-06 07:43,"","","","","",0,2019-11-06 07:37,"","","",""
+32420,Redmine,Defect,"",Needs feedback,Normal,Issue redirect after login not working,James Kurczodyna,James Kurczodyna,2019-11-18 20:00,"","","","","",0,2019-11-05 23:15,"","","",""
+32414,Redmine,Feature,"",New,Normal,"When user add\change the password, provide a visual password strength checker",pasquale [:dedalus],"",2019-11-05 11:42,Accounts / authentication,"","","","",0,2019-11-05 11:42,"","","",""
+32412,Redmine,Defect,"",New,Normal,Redmine::Utils::relative_url_root in in environment.rb does not redirect links,Tuomas Huuki,"",2019-11-05 09:41,Issues,"","","","",0,2019-11-05 09:41,"","","",3.4.12
+32405,Redmine,Patch,"",New,Normal,Updating sq translation,Besnik Bleta,"",2019-11-04 18:23,Translations,"","","","",0,2019-11-04 18:23,"","","",""
+32404,Redmine,Defect,"",New,Normal,Group results is different between MySQL and PostgreSQL,Simon Hori,"",2019-11-19 09:41,Issues filter,"","","","",0,2019-11-04 15:56,"",related to #25066,"",""
+32399,Redmine,Feature,"",New,Normal,Drop support for migrating from Trac or Mantins,Marius BALTEANU,"",2019-11-03 09:36,Importers,"","","","",0,2019-11-02 14:43,"","","",""
+32382,Redmine,Defect,"",Needs feedback,Normal,Unreliable User mention feature with PostgreSQL,Kenta Kogumasaka,"",2019-11-10 23:29,Issues,"","","","",0,2019-11-01 02:00,"",related to #26892,"",3.4.11
+32381,Redmine,Patch,"",New,Normal,Wiki preview : manage dynamic content,Jérôme BATAILLE,"",2019-10-31 18:04,Wiki,"","","","",0,2019-10-31 14:25,"","","",""
+32380,Redmine,Patch,"",New,Normal,"Change Italian translation for ""news""",Go MAEDA,"",2019-10-31 10:47,Translations,Candidate for next major release,"","","",0,2019-10-31 10:47,"",related to #32326,"",""
+32376,Redmine,Defect,"",Needs feedback,Normal,error 500 on profiles,PICCORO LenzMcKAY,"",2019-11-11 18:28,Accounts / authentication,"","","","",0,2019-10-30 23:06,"","","",3.3.9
+32372,Redmine,Feature,"",New,Normal,Preview the file content when importing CSV file,Go MAEDA,"",2019-11-01 17:35,Importers,"","","","",0,2019-10-30 08:26,"","","",""
+32370,Redmine,Patch,"",New,Normal,Action menu on issues details should not flip with the history order,Bernhard Rohloff,"",2019-10-31 08:46,UI,"","","","",0,2019-10-30 06:05,"","related to #31438, related to #23518, related to #32009","",""
+32360,Redmine,Feature,"",New,Normal,Option to show only open or closed issues in Roadmap,Go MAEDA,"",2019-10-30 11:00,Roadmap,"","","","",0,2019-10-29 03:36,"","","",""
+32350,Redmine,Feature,"",New,Normal,Show each project as card in the projects board,Marius BALTEANU,"",2019-11-21 06:40,UI,"","","","",0,2019-10-26 23:48,"",related to #30510,"",""
+32342,Redmine,Feature,"",New,Normal,File list CSV report,Martina Adler,"",2019-10-25 10:48,Files,"","","","",0,2019-10-25 10:48,"","","",""
+32341,Redmine,Feature,"",New,Normal,Show tooltip when hovering on repeat-value link in Field permission tab,Go MAEDA,"",2019-10-25 08:38,Administration,"","","","",0,2019-10-25 08:38,"","","",""
+32326,Redmine,Patch,"",Needs feedback,Normal,Update it.yml locale,pasquale [:dedalus],pasquale [:dedalus],2019-10-29 09:51,Translations,"","","","",0,2019-10-23 13:23,"","related to #32354, related to #32358, related to #32380","",""
+32322,Redmine,Defect,"",Needs feedback,Normal,changes made to filter/column/groupby is not saved to session cookie,Taine Woo,"",2019-11-01 15:39,Issues filter,"","","","",0,2019-10-22 09:31,"",related to #24581,"",4.0.4
+32317,Redmine,Feature,"",New,Normal,Issue filter: locale: label_issue: confusing the Issue and IssueID,Taine Woo,"",2019-10-22 22:41,Issues filter,"","","","",0,2019-10-22 07:37,"","","",""
+32315,Redmine,Defect,"",New,Normal,Impossible to validate API key without modifying anything,Nathan Cutler,"",2019-11-04 01:19,REST API,"","","","",0,2019-10-21 22:09,"","","",""
+32314,Redmine,Defect,"",Needs feedback,Normal,"Notification for ""Only for things I watch or I'm involed in"" not works",pasquale [:dedalus],pasquale [:dedalus],2019-11-21 17:08,Email notifications,"","","","",0,2019-10-21 19:15,"","","",4.0.5
+32312,Redmine,Feature,"",New,Normal,Disable auto selecting in top right Project filter,Yury Vashinko,"",2019-10-21 09:53,"","","","","",0,2019-10-21 09:53,"","","",""
+32311,Redmine,Feature,"",New,Normal,Filter Issues by multiple issue_id doesn't support space character or semicolon/dash as the separator,Taine Woo,"",2019-11-01 15:52,Issues filter,"","","","",0,2019-10-21 09:20,"","","",""
+32305,Redmine,Defect,"",New,Normal,Use of notextile tag disables Redmine revision links,Mischa The Evil,"",2019-10-20 07:29,Text formatting,"","","","",0,2019-10-20 07:29,"","","",""
+32299,Redmine,Defect,"",New,Normal,Cannot add some filters in Gantt if Issue tracking module is disabled for the project,Go MAEDA,"",2019-10-18 10:41,Gantt,"","","","",0,2019-10-18 10:41,"","","",""
+32296,Redmine,Patch,"",New,Normal,Ignore rubocop offense,Masahiro IUCHI,"",2019-11-04 03:50,Code cleanup/refactoring,"","","","",0,2019-10-18 08:42,"","","",""
+32293,Redmine,Defect,"",Confirmed,Normal,Redmine does not start if optional openid gems are not installed,Go MAEDA,"",2019-10-20 06:52,Gems support,"","","","",0,2019-10-18 04:15,"","","",""
+32278,Redmine,Feature,"",New,Normal,Display Global Roadmap without any tracker,Brice Beaumesnil,"",2019-10-17 10:12,Roadmap,"","","","",0,2019-10-15 11:12,"",related to #6432,"",""
+32253,Redmine,Defect,"",New,Normal,Last Mercurial version supported,Guillermo ML,"",2019-10-14 13:55,Documentation,"","","","",0,2019-10-14 13:55,"","","",""
